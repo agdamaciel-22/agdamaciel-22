@@ -19,3 +19,9 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=agdamaciel-22&show_icons=true" />
 </picture>
+
+### Linguagens conhecidas:
+#### - HTML
+#### - CSS
+#### - JavaScript
+#### - C e C++
