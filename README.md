@@ -1,9 +1,9 @@
 ### Olá eu sou Agda Myrella 👋
 
-### Formação: Técnica em Eletroeletrônica - IFPE
-###           Graduanda em Engenharia Elétrica - IFPE
-### Cursos extras: Introdução ao Desenvolvimento Web - Trybe
-###                Desenvolvimento Web Front-End - Trybe
+# Formação: Técnica em Eletroeletrônica - IFPE
+#           Graduanda em Engenharia Elétrica - IFPE
+# Cursos extras: Introdução ao Desenvolvimento Web - Trybe
+#                Desenvolvimento Web Front-End - Trybe
 
 <picture>
 <source
