@@ -4,9 +4,10 @@
 ##### - Técnica em Eletroeletrônica - IFPE     
 ##### - Graduanda em Engenharia Elétrica - IFPE
 
+## Admiradora e curiosa se tratando do desenvolvimento de sites <3 <3 <3
+
 ### Cursos extras: 
-##### - Introdução ao Desenvolvimento Web - Trybe      
-##### - Desenvolvimento Web Front-End - Trybe
+##### - Introdução ao Desenvolvimento Web e Desenvolvimento Web Front-End  - Trybe      
 
 <picture>
 <source
